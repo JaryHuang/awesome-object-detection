@@ -48,7 +48,7 @@ Based on handong1587's github: https://handong1587.github.io/deep_learning/2015/
 **《Recent Advances in Object Detection in the Age of Deep Convolutional Neural Networks》**
 
 - intro: awesome
-
+- 综述性文章
 
 - arXiv: https://arxiv.org/abs/1809.03193
 
